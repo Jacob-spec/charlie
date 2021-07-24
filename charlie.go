@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"io/ioutil"
-	"example.com/markdown/frontend"
+	"github.org/Jacob-spec/charlie/frontend"
 )
 
 func readFile(filename string) string {
