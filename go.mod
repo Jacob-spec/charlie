@@ -1,4 +1,4 @@
-module example.com/markdown
+module github.org/Jacob-spec/charlie
 
 go 1.16
 
